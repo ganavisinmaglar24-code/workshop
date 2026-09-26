@@ -1,2 +1,4 @@
 # workshop
-Starting with
+
+
+mistakes are normal
